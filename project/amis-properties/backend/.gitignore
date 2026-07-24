@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+uploads/*
+!uploads/.gitkeep
+*.log
+npm-debug.log*
+coverage
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+*.swp
